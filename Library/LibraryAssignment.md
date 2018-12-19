@@ -10,7 +10,13 @@
 - []()
 
 ## Library Use Cases ##
-- As a member I want to be able to rent books from the
+- As a member I want to be able to rent books from the library.
+- As a member I want to be able to rent cd's from the library.
+- As a member I want to be able to rent dvd's from the library.
+- As a member I want to be able to reserve books from the library.
+- As a member I want to be able to reserve cd's from the library.
+- As a member I want to be able to reserve dvd's from the library.
+- As a libertarian I want to ...
 
 
 <hr>
