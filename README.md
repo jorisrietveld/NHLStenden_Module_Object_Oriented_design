@@ -1,0 +1,3 @@
+# OGO
+Object Georienteerd ontwerp.
+mooi...
